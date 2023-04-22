@@ -1,0 +1,837 @@
+[
+	{
+		"type": "male_hair",
+		"parts": [
+			{
+				"id": 0,
+				"name": "bald",
+				"model": {
+					"id": 230
+				},
+				"chat_model": {
+					"id": 63
+				}
+			},
+			{
+				"id": 1,
+				"name": "dreadlocks",
+				"model": {
+					"id": 210
+				},
+				"chat_model": {
+					"id": 49
+				}
+			},
+			{
+				"id": 2,
+				"name": "long",
+				"model": {
+					"id": 214
+				},
+				"chat_model": {
+					"id": 52
+				}
+			},
+			{
+				"id": 3,
+				"name": "medium",
+				"model": {
+					"id": 217
+				},
+				"chat_model": {
+					"id": 55
+				}
+			},
+			{
+				"id": 4,
+				"name": "tonsure",
+				"model": {
+					"id": 223
+				},
+				"chat_model": {
+					"id": 59
+				}
+			},
+			{
+				"id": 5,
+				"name": "short",
+				"model": {
+					"id": 215
+				},
+				"chat_model": {
+					"id": 53
+				}
+			},
+			{
+				"id": 6,
+				"name": "cropped",
+				"model": {
+					"id": 235
+				},
+				"chat_model": {
+					"id": 67
+				}
+			},
+			{
+				"id": 7,
+				"name": "wild_spikes",
+				"model": {
+					"id": 206
+				},
+				"chat_model": {
+					"id": 46
+				}
+			},
+			{
+				"id": 8,
+				"name": "spikes",
+				"model": {
+					"id": 203
+				},
+				"chat_model": {
+					"id": 45
+				}
+			},
+			{
+				"id": 9,
+				"name": "spikes_unused",
+				"disabled": true,
+				"model": {
+					"id": 203
+				},
+				"chat_model": {
+					"id": 45
+				}
+			}
+		]
+	},
+	{
+		"type": "male_jaw",
+		"parts": [
+			{
+				"id": 10,
+				"name": "goatee",
+				"model": {
+					"id": 249
+				},
+				"chat_model": {
+					"id": 81
+				}
+			},
+			{
+				"id": 11,
+				"name": "long",
+				"model": {
+					"id": 250
+				},
+				"chat_model": {
+					"id": 82
+				}
+			},
+			{
+				"id": 12,
+				"name": "medium",
+				"model": {
+					"id": 251
+				},
+				"chat_model": {
+					"id": 83
+				}
+			},
+			{
+				"id": 13,
+				"name": "moustache",
+				"model": {
+					"id": 247
+				},
+				"chat_model": {
+					"id": 79
+				}
+			},
+			{
+				"id": 14,
+				"name": "clean",
+				"model": {
+					"id": 246
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 15,
+				"name": "short",
+				"model": {
+					"id": 248
+				},
+				"chat_model": {
+					"id": 80
+				}
+			},
+			{
+				"id": 16,
+				"name": "pointy",
+				"model": {
+					"id": 253
+				},
+				"chat_model": {
+					"id": 85
+				}
+			},
+			{
+				"id": 17,
+				"name": "split",
+				"model": {
+					"id": 252
+				},
+				"chat_model": {
+					"id": 84
+				}
+			}
+		]
+	},
+	{
+		"type": "male_torso",
+		"parts": [
+			{
+				"id": 18,
+				"name": "plain",
+				"model": {
+					"id": 292
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 19,
+				"name": "light_buttons",
+				"model": {
+					"join": [
+						292,
+						322
+					]
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 20,
+				"name": "dark_buttons",
+				"model": {
+					"join": [
+						292,
+						326
+					]
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 21,
+				"name": "jacket",
+				"model": {
+					"join": [
+						292,
+						320
+					]
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 22,
+				"name": "shirt",
+				"model": {
+					"join": [
+						292,
+						327
+					]
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 23,
+				"name": "stitching",
+				"model": {
+					"join": [
+						292,
+						324
+					]
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 24,
+				"name": "torn",
+				"model": {
+					"id": 310
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 25,
+				"name": "two_toned",
+				"model": {
+					"id": 297
+				},
+				"chat_model": {}
+			}
+		]
+	},
+	{
+		"type": "male_arms",
+		"parts": [
+			{
+				"id": 26,
+				"name": "plain",
+				"model": {
+					"id": 151
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 27,
+				"name": "muscular",
+				"model": {
+					"id": 167
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 28,
+				"name": "loose_sleeved",
+				"model": {
+					"id": 170
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 29,
+				"name": "large_cuffed",
+				"model": {
+					"id": 162
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 30,
+				"name": "long_sleeved",
+				"model": {
+					"id": 163
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 31,
+				"name": "shoulder_pads",
+				"model": {
+					"id": 158
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 32,
+				"name": "shoulder_pads_unused",
+				"disabled": true,
+				"model": {
+					"id": 158
+				},
+				"chat_model": {}
+			}
+		]
+	},
+	{
+		"type": "male_hands",
+		"parts": [
+			{
+				"id": 33,
+				"name": "plain",
+				"model": {
+					"id": 176
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 34,
+				"name": "padded",
+				"model": {
+					"id": 176,
+					"recolors": [
+						{
+							"src": 43072,
+							"dst": 4550
+						}
+					]
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 35,
+				"name": "padded_unused",
+				"disabled": true,
+				"model": {
+					"id": 176
+				},
+				"chat_model": {}
+			}
+		]
+	},
+	{
+		"type": "male_legs",
+		"parts": [
+			{
+				"id": 36,
+				"name": "plain",
+				"model": {
+					"id": 254
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 37,
+				"name": "shorts",
+				"model": {
+					"id": 271
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 38,
+				"name": "flares",
+				"model": {
+					"id": 267
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 39,
+				"name": "turn_ups",
+				"model": {
+					"id": 274
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 40,
+				"name": "tatty",
+				"model": {
+					"id": 275
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 41,
+				"name": "tatty_unused",
+				"disabled": true,
+				"model": {
+					"id": 275
+				},
+				"chat_model": {}
+			}
+		]
+	},
+	{
+		"type": "male_feet",
+		"parts": [
+			{
+				"id": 42,
+				"name": "plain",
+				"model": {
+					"id": 181
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 43,
+				"name": "large",
+				"model": {
+					"id": 183
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 44,
+				"name": "large_unused",
+				"disabled": true,
+				"model": {
+					"id": 183
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 82,
+				"name": "minecart",
+				"disabled": true,
+				"model": {
+					"id": 7117
+				},
+				"chat_model": {}
+			}
+		]
+	},
+	{
+		"type": "female_hair",
+		"parts": [
+			{
+				"id": 45,
+				"name": "bald",
+				"model": {
+					"id": 403
+				},
+				"chat_model": {
+					"id": 120
+				}
+			},
+			{
+				"id": 46,
+				"name": "bun",
+				"model": {
+					"id": 378
+				},
+				"chat_model": {
+					"id": 103
+				}
+			},
+			{
+				"id": 47,
+				"name": "dreadlocks",
+				"model": {
+					"id": 387
+				},
+				"chat_model": {
+					"id": 110
+				}
+			},
+			{
+				"id": 48,
+				"name": "long",
+				"model": {
+					"id": 390
+				},
+				"chat_model": {
+					"id": 113
+				}
+			},
+			{
+				"id": 49,
+				"name": "medium",
+				"model": {
+					"id": 393
+				},
+				"chat_model": {
+					"id": 115
+				}
+			},
+			{
+				"id": 50,
+				"name": "pigtails",
+				"model": {
+					"id": 399
+				},
+				"chat_model": {
+					"id": 118
+				}
+			},
+			{
+				"id": 51,
+				"name": "short",
+				"model": {
+					"id": 391
+				},
+				"chat_model": {
+					"id": 114
+				}
+			},
+			{
+				"id": 52,
+				"name": "cropped",
+				"model": {
+					"id": 408
+				},
+				"chat_model": {
+					"id": 125
+				}
+			},
+			{
+				"id": 53,
+				"name": "wild_spikes",
+				"model": {
+					"id": 382
+				},
+				"chat_model": {
+					"id": 105
+				}
+			},
+			{
+				"id": 54,
+				"name": "spikes",
+				"model": {
+					"id": 379
+				},
+				"chat_model": {
+					"id": 104
+				}
+			},
+			{
+				"id": 55,
+				"name": "spikes_unused",
+				"disabled": true,
+				"model": {
+					"id": 379
+				},
+				"chat_model": {
+					"id": 104
+				}
+			}
+		]
+	},
+	{
+		"type": "female_jaw"
+	},
+	{
+		"type": "female_torso",
+		"parts": [
+			{
+				"id": 56,
+				"name": "plain",
+				"model": {
+					"id": 456
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 57,
+				"name": "crop_top",
+				"model": {
+					"id": 469
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 58,
+				"name": "polo_neck",
+				"model": {
+					"id": 470
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 59,
+				"name": "simple",
+				"model": {
+					"id": 471
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 60,
+				"name": "torn",
+				"model": {
+					"id": 474
+				},
+				"chat_model": {}
+			}
+		]
+	},
+	{
+		"type": "female_arms",
+		"parts": [
+			{
+				"id": 61,
+				"name": "plain",
+				"model": {
+					"id": 332
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 62,
+				"name": "bare",
+				"model": {
+					"id": 351
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 63,
+				"name": "muscular",
+				"model": {
+					"id": 346
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 64,
+				"name": "long_sleeved",
+				"model": {
+					"id": 348
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 65,
+				"name": "large_cuffed",
+				"model": {
+					"id": 343
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 66,
+				"name": "large_cuffed_unused",
+				"disabled": true,
+				"model": {
+					"id": 343
+				},
+				"chat_model": {}
+			}
+		]
+	},
+	{
+		"type": "female_hands",
+		"parts": [
+			{
+				"id": 67,
+				"name": "plain",
+				"model": {
+					"id": 353
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 68,
+				"name": "padded",
+				"model": {
+					"id": 353,
+					"recolors": [
+						{
+							"src": 43072,
+							"dst": 4550
+						}
+					]
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 69,
+				"name": "padded_unused",
+				"disabled": true,
+				"model": {
+					"id": 353
+				},
+				"chat_model": {}
+			}
+		]
+	},
+	{
+		"type": "female_legs",
+		"parts": [
+			{
+				"id": 70,
+				"name": "plain",
+				"model": {
+					"id": 419
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 71,
+				"name": "skirt",
+				"model": {
+					"id": 433
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 72,
+				"name": "flares",
+				"model": {
+					"id": 431
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 73,
+				"name": "long_skirt",
+				"model": {
+					"id": 428
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 74,
+				"name": "long_skirt_narrow",
+				"model": {
+					"id": 421
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 75,
+				"name": "tatty",
+				"model": {
+					"id": 438
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 76,
+				"name": "turn_ups",
+				"model": {
+					"id": 437
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 77,
+				"name": "short_skirt",
+				"model": {
+					"id": 429
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 78,
+				"name": "short_skirt_unused",
+				"disabled": true,
+				"model": {
+					"id": 429
+				},
+				"chat_model": {}
+			}
+		]
+	},
+	{
+		"type": "female_feet",
+		"parts": [
+			{
+				"id": 79,
+				"name": "plain",
+				"model": {
+					"id": 358
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 80,
+				"name": "large",
+				"model": {
+					"id": 360
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 81,
+				"name": "large_unused",
+				"disabled": true,
+				"model": {
+					"id": 360
+				},
+				"chat_model": {}
+			},
+			{
+				"id": 83,
+				"name": "minecart",
+				"disabled": true,
+				"model": {
+					"id": 7118
+				},
+				"chat_model": {}
+			}
+		]
+	}
+]
