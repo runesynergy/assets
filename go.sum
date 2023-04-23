@@ -1,2 +1,4 @@
 azul3d.org/engine v0.0.0-20211024043305-793ea6c2839d h1:oLr8Nu7iEKm8OKfHNznBnBj8Z/SKBa20yl7JKqJn4W8=
 azul3d.org/engine v0.0.0-20211024043305-793ea6c2839d/go.mod h1:3y1cwzJTKvXXop+EAg+AUVfNm3bfHf3djeX+l1UBuUE=
+golang.org/x/exp v0.0.0-20230420155640-133eef4313cb h1:rhjz/8Mbfa8xROFiH+MQphmAmgqRM0bOMnytznhWEXk=
+golang.org/x/exp v0.0.0-20230420155640-133eef4313cb/go.mod h1:V1LtkGg67GoY2N1AnLN78QLrzxkLyJw7RJb1gzOOz9w=
