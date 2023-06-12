@@ -1,0 +1,5025 @@
+[
+  {
+    "id": 0,
+    "animation": 85,
+    "model": {
+      "id": 3015
+    }
+  },
+  {
+    "id": 1,
+    "animation": 86,
+    "model": {
+      "id": 3016
+    }
+  },
+  {
+    "id": 2,
+    "animation": 88,
+    "model": {
+      "id": 3018
+    }
+  },
+  {
+    "id": 3,
+    "animation": 87,
+    "model": {
+      "id": 3017
+    }
+  },
+  {
+    "id": 4,
+    "animation": 70,
+    "model": {
+      "id": 3019
+    }
+  },
+  {
+    "id": 5,
+    "animation": 71,
+    "model": {
+      "id": 3019
+    }
+  },
+  {
+    "id": 6,
+    "animation": 150,
+    "model": {
+      "id": 2886
+    }
+  },
+  {
+    "id": 7,
+    "animation": 135,
+    "model": {
+      "id": 3351
+    }
+  },
+  {
+    "id": 8,
+    "animation": 496,
+    "model": {
+      "id": 2296
+    }
+  },
+  {
+    "id": 9,
+    "model": {
+      "id": 3136
+    },
+    "recolors": [
+      {
+        "src": 57,
+        "dst": 33
+      },
+      {
+        "src": 61,
+        "dst": 33
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "model": {
+      "id": 3136
+    },
+    "recolors": [
+      {
+        "src": 57,
+        "dst": 5652
+      },
+      {
+        "src": 61,
+        "dst": 5652
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "model": {
+      "id": 3136
+    }
+  },
+  {
+    "id": 12,
+    "model": {
+      "id": 3136
+    },
+    "recolors": [
+      {
+        "src": 57,
+        "dst": 43282
+      },
+      {
+        "src": 61,
+        "dst": 43282
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "model": {
+      "id": 3136
+    },
+    "recolors": [
+      {
+        "src": 57,
+        "dst": 21662
+      },
+      {
+        "src": 61,
+        "dst": 21662
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "model": {
+      "id": 3136
+    },
+    "recolors": [
+      {
+        "src": 57,
+        "dst": 12
+      },
+      {
+        "src": 61,
+        "dst": 12
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "model": {
+      "id": 3136
+    },
+    "recolors": [
+      {
+        "src": 57,
+        "dst": 37270
+      },
+      {
+        "src": 61,
+        "dst": 37270
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "model": {
+      "id": 3136
+    },
+    "recolors": [
+      {
+        "src": 57,
+        "dst": 37340
+      },
+      {
+        "src": 61,
+        "dst": 37340
+      },
+      {
+        "src": 5012,
+        "dst": 37444
+      },
+      {
+        "src": 926,
+        "dst": 37340
+      },
+      {
+        "src": 5012,
+        "dst": 37340
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "model": {
+      "id": 3132
+    }
+  },
+  {
+    "id": 18,
+    "animation": 366,
+    "model": {
+      "id": 3142
+    },
+    "recolors": [
+      {
+        "src": 57,
+        "dst": 33
+      },
+      {
+        "src": 61,
+        "dst": 33
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "animation": 366,
+    "model": {
+      "id": 3142
+    },
+    "recolors": [
+      {
+        "src": 57,
+        "dst": 5652
+      },
+      {
+        "src": 61,
+        "dst": 5652
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "animation": 366,
+    "model": {
+      "id": 3142
+    }
+  },
+  {
+    "id": 21,
+    "animation": 366,
+    "model": {
+      "id": 3142
+    },
+    "recolors": [
+      {
+        "src": 57,
+        "dst": 43297
+      },
+      {
+        "src": 61,
+        "dst": 43297
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "animation": 366,
+    "model": {
+      "id": 3142
+    },
+    "recolors": [
+      {
+        "src": 57,
+        "dst": 21662
+      },
+      {
+        "src": 61,
+        "dst": 21662
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "animation": 366,
+    "model": {
+      "id": 3142
+    },
+    "recolors": [
+      {
+        "src": 57,
+        "dst": 12
+      },
+      {
+        "src": 61,
+        "dst": 12
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "animation": 366,
+    "model": {
+      "id": 3142
+    },
+    "recolors": [
+      {
+        "src": 57,
+        "dst": 36133
+      },
+      {
+        "src": 61,
+        "dst": 36133
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "animation": 366,
+    "model": {
+      "id": 3142
+    },
+    "recolors": [
+      {
+        "src": 57,
+        "dst": 37340
+      },
+      {
+        "src": 61,
+        "dst": 37340
+      },
+      {
+        "src": 5012,
+        "dst": 37444
+      },
+      {
+        "src": 926,
+        "dst": 37340
+      },
+      {
+        "src": 5012,
+        "dst": 37340
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "animation": 366,
+    "model": {
+      "id": 3141
+    }
+  },
+  {
+    "id": 27,
+    "model": {
+      "id": 3135
+    }
+  },
+  {
+    "id": 28,
+    "animation": 367,
+    "model": {
+      "id": 3143
+    }
+  },
+  {
+    "id": 29,
+    "animation": 375,
+    "model": {
+      "id": 3208
+    }
+  },
+  {
+    "id": 30,
+    "animation": 374,
+    "model": {
+      "id": 3208
+    }
+  },
+  {
+    "id": 31,
+    "animation": 914,
+    "model": {
+      "id": 2223
+    },
+    "recolors": [
+      {
+        "src": 43237,
+        "dst": 3742
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "model": {
+      "id": 3349
+    }
+  },
+  {
+    "id": 33,
+    "animation": 922,
+    "model": {
+      "id": 3350
+    }
+  },
+  {
+    "id": 34,
+    "model": {
+      "id": 3131
+    }
+  },
+  {
+    "id": 35,
+    "animation": 372,
+    "model": {
+      "id": 3148
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 33
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "animation": 372,
+    "model": {
+      "id": 3148
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 5652
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "animation": 372,
+    "model": {
+      "id": 3148
+    }
+  },
+  {
+    "id": 38,
+    "animation": 372,
+    "model": {
+      "id": 3148
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 43297
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "animation": 372,
+    "model": {
+      "id": 3148
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 21662
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "animation": 372,
+    "model": {
+      "id": 3148
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 10508
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "animation": 372,
+    "model": {
+      "id": 3148
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 36133
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "animation": 371,
+    "model": {
+      "id": 3147
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 33
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "animation": 371,
+    "model": {
+      "id": 3147
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 5652
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "animation": 371,
+    "model": {
+      "id": 3147
+    }
+  },
+  {
+    "id": 45,
+    "animation": 371,
+    "model": {
+      "id": 3147
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 43297
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "animation": 371,
+    "model": {
+      "id": 3147
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 21662
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "animation": 371,
+    "model": {
+      "id": 3147
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 10508
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "animation": 371,
+    "model": {
+      "id": 3147
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 36133
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "animation": 375,
+    "model": {
+      "id": 3152
+    }
+  },
+  {
+    "id": 50,
+    "animation": 374,
+    "model": {
+      "id": 3150
+    }
+  },
+  {
+    "id": 51,
+    "animation": 375,
+    "model": {
+      "id": 3151
+    }
+  },
+  {
+    "id": 52,
+    "animation": 374,
+    "model": {
+      "id": 3149
+    }
+  },
+  {
+    "id": 53,
+    "model": {
+      "id": 3133
+    }
+  },
+  {
+    "id": 54,
+    "animation": 373,
+    "model": {
+      "id": 3154
+    }
+  },
+  {
+    "id": 55,
+    "animation": 375,
+    "model": {
+      "id": 3153
+    }
+  },
+  {
+    "id": 56,
+    "animation": 451,
+    "model": {
+      "id": 519
+    }
+  },
+  {
+    "id": 57,
+    "animation": 454,
+    "model": {
+      "id": 2294
+    }
+  },
+  {
+    "id": 58,
+    "animation": 455,
+    "model": {
+      "id": 2294
+    }
+  },
+  {
+    "id": 59,
+    "animation": 456,
+    "model": {
+      "id": 2320
+    }
+  },
+  {
+    "id": 60,
+    "animation": 457,
+    "model": {
+      "id": 2321
+    }
+  },
+  {
+    "id": 61,
+    "animation": 458,
+    "model": {
+      "id": 2322
+    }
+  },
+  {
+    "id": 62,
+    "animation": 459,
+    "model": {
+      "id": 2323
+    }
+  },
+  {
+    "id": 63,
+    "animation": 460,
+    "model": {
+      "id": 2325
+    }
+  },
+  {
+    "id": 64,
+    "animation": 461,
+    "model": {
+      "id": 2325
+    }
+  },
+  {
+    "id": 65,
+    "animation": 462,
+    "model": {
+      "id": 2326
+    }
+  },
+  {
+    "id": 66,
+    "animation": 463,
+    "model": {
+      "id": 2326
+    }
+  },
+  {
+    "id": 67,
+    "animation": 489,
+    "model": {
+      "id": 2224
+    }
+  },
+  {
+    "id": 68,
+    "animation": 465,
+    "model": {
+      "id": 2223
+    }
+  },
+  {
+    "id": 69,
+    "animation": 465,
+    "model": {
+      "id": 2223
+    },
+    "recolors": [
+      {
+        "src": 43237,
+        "dst": 5058
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "model": {
+      "id": 3140
+    }
+  },
+  {
+    "id": 71,
+    "animation": 693,
+    "model": {
+      "id": 3116
+    },
+    "recolors": [
+      {
+        "src": 7104,
+        "dst": 22416
+      },
+      {
+        "src": 6080,
+        "dst": 21539
+      },
+      {
+        "src": 960,
+        "dst": 21652
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "animation": 341,
+    "model": {
+      "id": 2850
+    },
+    "recolors": [
+      {
+        "src": 11200,
+        "dst": 5056
+      },
+      {
+        "src": 9123,
+        "dst": 127
+      },
+      {
+        "src": 7070,
+        "dst": 127
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "animation": 224,
+    "model": {
+      "id": 7410
+    }
+  },
+  {
+    "id": 74,
+    "animation": 643,
+    "model": {
+      "id": 2321
+    }
+  },
+  {
+    "id": 75,
+    "model": {
+      "id": 3073
+    }
+  },
+  {
+    "id": 76,
+    "animation": 647,
+    "light": {
+      "ambient": 100,
+      "contrast": 100
+    },
+    "model": {
+      "id": 3066
+    }
+  },
+  {
+    "id": 77,
+    "animation": 648,
+    "light": {
+      "ambient": 50,
+      "contrast": 50
+    },
+    "model": {
+      "id": 3068,
+      "scale_x": 56,
+      "scale_z": 56
+    }
+  },
+  {
+    "id": 78,
+    "animation": 901,
+    "light": {
+      "ambient": 75,
+      "contrast": 75
+    },
+    "model": {
+      "id": 2267
+    }
+  },
+  {
+    "id": 79,
+    "animation": 650,
+    "model": {
+      "id": 3069,
+      "rotate_y": 270
+    }
+  },
+  {
+    "id": 80,
+    "animation": 706,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3070
+    }
+  },
+  {
+    "id": 81,
+    "animation": 705,
+    "model": {
+      "id": 3071
+    }
+  },
+  {
+    "id": 82,
+    "animation": 651,
+    "model": {
+      "id": 3073
+    }
+  },
+  {
+    "id": 83,
+    "animation": 649,
+    "model": {
+      "id": 3072
+    },
+    "recolors": [
+      {
+        "src": 43187,
+        "dst": 906
+      },
+      {
+        "src": 43189,
+        "dst": 910
+      },
+      {
+        "src": 43063,
+        "dst": 914
+      },
+      {
+        "src": 43065,
+        "dst": 918
+      },
+      {
+        "src": 43067,
+        "dst": 922
+      },
+      {
+        "src": 61,
+        "dst": 926
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "animation": 652,
+    "model": {
+      "id": 3074
+    }
+  },
+  {
+    "id": 85,
+    "animation": 653,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3080
+    }
+  },
+  {
+    "id": 86,
+    "animation": 654,
+    "model": {
+      "id": 3076
+    }
+  },
+  {
+    "id": 87,
+    "animation": 655,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3079
+    }
+  },
+  {
+    "id": 88,
+    "animation": 656,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3077
+    }
+  },
+  {
+    "id": 89,
+    "animation": 657,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3078
+    }
+  },
+  {
+    "id": 90,
+    "animation": 658,
+    "light": {
+      "ambient": 30,
+      "contrast": 30
+    },
+    "model": {
+      "id": 3083
+    },
+    "recolors": [
+      {
+        "src": 51136,
+        "dst": 43119
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "animation": 659,
+    "light": {
+      "ambient": 30,
+      "contrast": 30
+    },
+    "model": {
+      "id": 3081
+    },
+    "recolors": [
+      {
+        "src": 926,
+        "dst": 43119
+      },
+      {
+        "src": 947,
+        "dst": 127
+      },
+      {
+        "src": 11200,
+        "dst": 43968
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "animation": 660,
+    "light": {
+      "ambient": 30,
+      "contrast": 30
+    },
+    "model": {
+      "id": 3082
+    },
+    "recolors": [
+      {
+        "src": 926,
+        "dst": 43119
+      },
+      {
+        "src": 947,
+        "dst": 127
+      },
+      {
+        "src": 11200,
+        "dst": 43968
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "animation": 658,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3083
+    },
+    "recolors": [
+      {
+        "src": 51136,
+        "dst": 45010
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "animation": 659,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3081
+    },
+    "recolors": [
+      {
+        "src": 926,
+        "dst": 45010
+      },
+      {
+        "src": 947,
+        "dst": 41187
+      },
+      {
+        "src": 11200,
+        "dst": 42093
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "animation": 660,
+    "light": {
+      "ambient": 50,
+      "contrast": 50
+    },
+    "model": {
+      "id": 3082
+    },
+    "recolors": [
+      {
+        "src": 926,
+        "dst": 45010
+      },
+      {
+        "src": 947,
+        "dst": 41187
+      },
+      {
+        "src": 11200,
+        "dst": 42093
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "animation": 658,
+    "light": {
+      "ambient": 30,
+      "contrast": 30
+    },
+    "model": {
+      "id": 3083
+    },
+    "recolors": [
+      {
+        "src": 51136,
+        "dst": 10138
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "animation": 659,
+    "light": {
+      "ambient": 30,
+      "contrast": 30
+    },
+    "model": {
+      "id": 3081
+    },
+    "recolors": [
+      {
+        "src": 926,
+        "dst": 10138
+      },
+      {
+        "src": 947,
+        "dst": 10155
+      },
+      {
+        "src": 11200,
+        "dst": 22464
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "animation": 660,
+    "light": {
+      "ambient": 30,
+      "contrast": 30
+    },
+    "model": {
+      "id": 3082
+    },
+    "recolors": [
+      {
+        "src": 926,
+        "dst": 10138
+      },
+      {
+        "src": 947,
+        "dst": 10155
+      },
+      {
+        "src": 11200,
+        "dst": 22464
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "animation": 658,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3083
+    },
+    "recolors": [
+      {
+        "src": 51136,
+        "dst": 960
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "animation": 659,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3081
+    },
+    "recolors": [
+      {
+        "src": 926,
+        "dst": 960
+      },
+      {
+        "src": 947,
+        "dst": 6080
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "animation": 660,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3082
+    },
+    "recolors": [
+      {
+        "src": 926,
+        "dst": 960
+      },
+      {
+        "src": 947,
+        "dst": 6080
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "animation": 668,
+    "light": {
+      "ambient": 75,
+      "contrast": 75
+    },
+    "model": {
+      "id": 3092
+    }
+  },
+  {
+    "id": 103,
+    "animation": 669,
+    "light": {
+      "ambient": 75,
+      "contrast": 75
+    },
+    "model": {
+      "id": 3093
+    }
+  },
+  {
+    "id": 104,
+    "animation": 670,
+    "light": {
+      "ambient": 75,
+      "contrast": 75
+    },
+    "model": {
+      "id": 3094
+    }
+  },
+  {
+    "id": 105,
+    "animation": 671,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3095
+    }
+  },
+  {
+    "id": 106,
+    "animation": 672,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3096
+    }
+  },
+  {
+    "id": 107,
+    "animation": 673,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3097
+    }
+  },
+  {
+    "id": 108,
+    "animation": 674,
+    "light": {
+      "ambient": 75,
+      "contrast": 75
+    },
+    "model": {
+      "id": 3098
+    }
+  },
+  {
+    "id": 109,
+    "animation": 675,
+    "light": {
+      "ambient": 75,
+      "contrast": 75
+    },
+    "model": {
+      "id": 3100
+    }
+  },
+  {
+    "id": 110,
+    "animation": 676,
+    "light": {
+      "ambient": 75,
+      "contrast": 75
+    },
+    "model": {
+      "id": 3102
+    }
+  },
+  {
+    "id": 111,
+    "animation": 667,
+    "light": {
+      "ambient": 100,
+      "contrast": 100
+    },
+    "model": {
+      "id": 3091
+    }
+  },
+  {
+    "id": 112,
+    "animation": 665,
+    "light": {
+      "ambient": 75,
+      "contrast": 75
+    },
+    "model": {
+      "id": 3090
+    }
+  },
+  {
+    "id": 113,
+    "animation": 666,
+    "light": {
+      "ambient": 75,
+      "contrast": 75
+    },
+    "model": {
+      "id": 3090
+    }
+  },
+  {
+    "id": 114,
+    "animation": 677,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3103
+    }
+  },
+  {
+    "id": 115,
+    "animation": 678,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3103
+    }
+  },
+  {
+    "id": 116,
+    "animation": 679,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3103
+    }
+  },
+  {
+    "id": 117,
+    "animation": 658,
+    "light": {
+      "ambient": 30,
+      "contrast": 30
+    },
+    "model": {
+      "id": 3083
+    },
+    "recolors": [
+      {
+        "src": 51136,
+        "dst": 43119
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "animation": 661,
+    "light": {
+      "ambient": 50,
+      "contrast": 50
+    },
+    "model": {
+      "id": 3084
+    },
+    "recolors": [
+      {
+        "src": 11200,
+        "dst": 61
+      },
+      {
+        "src": 6080,
+        "dst": 127
+      },
+      {
+        "src": 960,
+        "dst": 82
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "animation": 662,
+    "light": {
+      "ambient": 50,
+      "contrast": 50
+    },
+    "model": {
+      "id": 3085
+    },
+    "recolors": [
+      {
+        "src": 960,
+        "dst": 82
+      },
+      {
+        "src": 6080,
+        "dst": 127
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "animation": 658,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3083
+    },
+    "recolors": [
+      {
+        "src": 51136,
+        "dst": 43968
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "animation": 661,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3084
+    },
+    "recolors": [
+      {
+        "src": 11200,
+        "dst": 43968
+      },
+      {
+        "src": 6080,
+        "dst": 38848
+      },
+      {
+        "src": 960,
+        "dst": 43486
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "animation": 662,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3085
+    },
+    "recolors": [
+      {
+        "src": 960,
+        "dst": 43486
+      },
+      {
+        "src": 6080,
+        "dst": 38848
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "animation": 658,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3083
+    },
+    "recolors": [
+      {
+        "src": 51136,
+        "dst": 10138
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "animation": 661,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3084
+    },
+    "recolors": [
+      {
+        "src": 11200,
+        "dst": 22430
+      },
+      {
+        "src": 6080,
+        "dst": 22464
+      },
+      {
+        "src": 960,
+        "dst": 8092
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "animation": 662,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3085
+    },
+    "recolors": [
+      {
+        "src": 960,
+        "dst": 8092
+      },
+      {
+        "src": 6080,
+        "dst": 22464
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "animation": 658,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3083
+    },
+    "recolors": [
+      {
+        "src": 51136,
+        "dst": 960
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "animation": 661,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3084
+    }
+  },
+  {
+    "id": 128,
+    "animation": 662,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3085
+    }
+  },
+  {
+    "id": 129,
+    "animation": 658,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3083
+    },
+    "recolors": [
+      {
+        "src": 51136,
+        "dst": 960
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "animation": 663,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3087
+    }
+  },
+  {
+    "id": 131,
+    "animation": 664,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3088
+    }
+  },
+  {
+    "id": 132,
+    "animation": 658,
+    "light": {
+      "ambient": 50,
+      "contrast": 50
+    },
+    "model": {
+      "id": 3083
+    },
+    "recolors": [
+      {
+        "src": 51136,
+        "dst": 43119
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "animation": 663,
+    "light": {
+      "ambient": 50,
+      "contrast": 50
+    },
+    "model": {
+      "id": 3087
+    },
+    "recolors": [
+      {
+        "src": 7104,
+        "dst": 61
+      },
+      {
+        "src": 6080,
+        "dst": 127
+      },
+      {
+        "src": 960,
+        "dst": 82
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "animation": 664,
+    "light": {
+      "ambient": 50,
+      "contrast": 50
+    },
+    "model": {
+      "id": 3088
+    },
+    "recolors": [
+      {
+        "src": 960,
+        "dst": 82
+      },
+      {
+        "src": 6080,
+        "dst": 127
+      },
+      {
+        "src": 24256,
+        "dst": 61
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "animation": 658,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3083
+    },
+    "recolors": [
+      {
+        "src": 51136,
+        "dst": 43968
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "animation": 663,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3087
+    },
+    "recolors": [
+      {
+        "src": 7104,
+        "dst": 43486
+      },
+      {
+        "src": 6080,
+        "dst": 38848
+      },
+      {
+        "src": 960,
+        "dst": 43968
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "animation": 664,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3088
+    },
+    "recolors": [
+      {
+        "src": 960,
+        "dst": 43968
+      },
+      {
+        "src": 6080,
+        "dst": 38848
+      },
+      {
+        "src": 24256,
+        "dst": 43486
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "animation": 658,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3083
+    },
+    "recolors": [
+      {
+        "src": 51136,
+        "dst": 10138
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "animation": 663,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3087
+    },
+    "recolors": [
+      {
+        "src": 7104,
+        "dst": 22430
+      },
+      {
+        "src": 6080,
+        "dst": 22464
+      },
+      {
+        "src": 960,
+        "dst": 8092
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "animation": 664,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3088
+    },
+    "recolors": [
+      {
+        "src": 960,
+        "dst": 8092
+      },
+      {
+        "src": 6080,
+        "dst": 22464
+      },
+      {
+        "src": 24256,
+        "dst": 22430
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "animation": 680,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3104
+    }
+  },
+  {
+    "id": 142,
+    "animation": 681,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3105
+    }
+  },
+  {
+    "id": 143,
+    "animation": 682,
+    "light": {
+      "ambient": 75,
+      "contrast": 75
+    },
+    "model": {
+      "id": 3106
+    }
+  },
+  {
+    "id": 144,
+    "animation": 683,
+    "light": {
+      "ambient": 75,
+      "contrast": 75
+    },
+    "model": {
+      "id": 3107
+    }
+  },
+  {
+    "id": 145,
+    "animation": 684,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3108
+    }
+  },
+  {
+    "id": 146,
+    "animation": 685,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3109
+    }
+  },
+  {
+    "id": 147,
+    "animation": 686,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3110
+    }
+  },
+  {
+    "id": 148,
+    "animation": 687,
+    "light": {
+      "ambient": 75,
+      "contrast": 75
+    },
+    "model": {
+      "id": 3111
+    }
+  },
+  {
+    "id": 149,
+    "animation": 688,
+    "model": {
+      "id": 3112
+    },
+    "recolors": [
+      {
+        "src": 49088,
+        "dst": 43968
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "animation": 688,
+    "model": {
+      "id": 3112
+    },
+    "recolors": [
+      {
+        "src": 49088,
+        "dst": 115
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "animation": 688,
+    "model": {
+      "id": 3112
+    },
+    "recolors": [
+      {
+        "src": 49088,
+        "dst": 22430
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "animation": 688,
+    "model": {
+      "id": 3112
+    },
+    "recolors": [
+      {
+        "src": 49088,
+        "dst": 960
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "animation": 689,
+    "model": {
+      "id": 3113
+    }
+  },
+  {
+    "id": 154,
+    "animation": 690,
+    "model": {
+      "id": 3113
+    }
+  },
+  {
+    "id": 155,
+    "animation": 691,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3114
+    }
+  },
+  {
+    "id": 156,
+    "animation": 692,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3115
+    }
+  },
+  {
+    "id": 157,
+    "animation": 693,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3116
+    }
+  },
+  {
+    "id": 158,
+    "animation": 691,
+    "light": {
+      "ambient": 50,
+      "contrast": 50
+    },
+    "model": {
+      "id": 3114
+    },
+    "recolors": [
+      {
+        "src": 7104,
+        "dst": 82
+      },
+      {
+        "src": 6080,
+        "dst": 127
+      },
+      {
+        "src": 960,
+        "dst": 61
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "animation": 692,
+    "light": {
+      "ambient": 50,
+      "contrast": 50
+    },
+    "model": {
+      "id": 3115
+    },
+    "recolors": [
+      {
+        "src": 7104,
+        "dst": 82
+      },
+      {
+        "src": 6080,
+        "dst": 127
+      },
+      {
+        "src": 960,
+        "dst": 61
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "animation": 693,
+    "light": {
+      "ambient": 50,
+      "contrast": 50
+    },
+    "model": {
+      "id": 3116
+    },
+    "recolors": [
+      {
+        "src": 7104,
+        "dst": 82
+      },
+      {
+        "src": 6080,
+        "dst": 127
+      },
+      {
+        "src": 960,
+        "dst": 61
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "animation": 691,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3114
+    },
+    "recolors": [
+      {
+        "src": 7104,
+        "dst": 43486
+      },
+      {
+        "src": 6080,
+        "dst": 38848
+      },
+      {
+        "src": 960,
+        "dst": 43968
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "animation": 692,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3115
+    },
+    "recolors": [
+      {
+        "src": 7104,
+        "dst": 43486
+      },
+      {
+        "src": 6080,
+        "dst": 38848
+      },
+      {
+        "src": 960,
+        "dst": 43968
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "animation": 693,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3116
+    },
+    "recolors": [
+      {
+        "src": 7104,
+        "dst": 43486
+      },
+      {
+        "src": 6080,
+        "dst": 38848
+      },
+      {
+        "src": 960,
+        "dst": 43968
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "animation": 691,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3114
+    },
+    "recolors": [
+      {
+        "src": 7104,
+        "dst": 8092
+      },
+      {
+        "src": 6080,
+        "dst": 22464
+      },
+      {
+        "src": 960,
+        "dst": 22430
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "animation": 692,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3115
+    },
+    "recolors": [
+      {
+        "src": 7104,
+        "dst": 8092
+      },
+      {
+        "src": 6080,
+        "dst": 22464
+      },
+      {
+        "src": 960,
+        "dst": 22430
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "animation": 693,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3116
+    },
+    "recolors": [
+      {
+        "src": 7104,
+        "dst": 8092
+      },
+      {
+        "src": 6080,
+        "dst": 22464
+      },
+      {
+        "src": 960,
+        "dst": 22430
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "animation": 694,
+    "light": {
+      "ambient": 75,
+      "contrast": 75
+    },
+    "model": {
+      "id": 3117
+    }
+  },
+  {
+    "id": 168,
+    "animation": 675,
+    "light": {
+      "ambient": 75,
+      "contrast": 75
+    },
+    "model": {
+      "id": 3099
+    }
+  },
+  {
+    "id": 169,
+    "animation": 695,
+    "light": {
+      "ambient": 75,
+      "contrast": 75
+    },
+    "model": {
+      "id": 3118
+    }
+  },
+  {
+    "id": 170,
+    "animation": 696,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3119
+    }
+  },
+  {
+    "id": 171,
+    "animation": 697,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3120
+    }
+  },
+  {
+    "id": 172,
+    "animation": 698,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3122
+    }
+  },
+  {
+    "id": 173,
+    "animation": 699,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3123
+    }
+  },
+  {
+    "id": 174,
+    "animation": 700,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3124
+    }
+  },
+  {
+    "id": 175,
+    "animation": 698,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3121
+    }
+  },
+  {
+    "id": 176,
+    "animation": 701,
+    "model": {
+      "id": 3125
+    }
+  },
+  {
+    "id": 177,
+    "animation": 702,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3126
+    }
+  },
+  {
+    "id": 178,
+    "animation": 703,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3127
+    }
+  },
+  {
+    "id": 179,
+    "animation": 704,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3128
+    }
+  },
+  {
+    "id": 180,
+    "animation": 704,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3130
+    }
+  },
+  {
+    "id": 181,
+    "animation": 704,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3129
+    }
+  },
+  {
+    "id": 182,
+    "animation": 731,
+    "model": {
+      "id": 2240
+    }
+  },
+  {
+    "id": 183,
+    "animation": 732,
+    "model": {
+      "id": 2239
+    }
+  },
+  {
+    "id": 184,
+    "animation": 654,
+    "model": {
+      "id": 3076
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 19344
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "animation": 663,
+    "model": {
+      "id": 3087
+    },
+    "recolors": [
+      {
+        "src": 960,
+        "dst": 119
+      },
+      {
+        "src": 6080,
+        "dst": 123
+      },
+      {
+        "src": 7104,
+        "dst": 115
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "animation": 790,
+    "model": {
+      "id": 3067
+    }
+  },
+  {
+    "id": 187,
+    "animation": 648,
+    "model": {
+      "id": 3068,
+      "scale_x": 56,
+      "scale_z": 56
+    },
+    "recolors": [
+      {
+        "src": 53167,
+        "dst": 10062
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "animation": 654,
+    "model": {
+      "id": 3076,
+      "scale_x": 256,
+      "scale_z": 256
+    }
+  },
+  {
+    "id": 189,
+    "animation": 654,
+    "model": {
+      "id": 3076,
+      "scale_x": 512,
+      "scale_y": 320,
+      "scale_z": 512
+    }
+  },
+  {
+    "id": 190,
+    "animation": 151,
+    "model": {
+      "id": 2886,
+      "scale_x": 352,
+      "scale_y": 352,
+      "scale_z": 352
+    }
+  },
+  {
+    "id": 191,
+    "animation": 136,
+    "model": {
+      "id": 3351,
+      "scale_x": 224,
+      "scale_y": 224,
+      "scale_z": 224
+    }
+  },
+  {
+    "id": 192,
+    "animation": 375,
+    "model": {
+      "id": 3151
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 43959
+      },
+      {
+        "src": 127,
+        "dst": 41438
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "animation": 374,
+    "model": {
+      "id": 3149
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 43959
+      },
+      {
+        "src": 127,
+        "dst": 41438
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "animation": 658,
+    "model": {
+      "id": 3083
+    },
+    "recolors": [
+      {
+        "src": 51136,
+        "dst": 43146
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "animation": 659,
+    "model": {
+      "id": 3081
+    },
+    "recolors": [
+      {
+        "src": 926,
+        "dst": 43146
+      },
+      {
+        "src": 947,
+        "dst": 45993
+      },
+      {
+        "src": 11200,
+        "dst": 127
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "animation": 660,
+    "model": {
+      "id": 3082
+    },
+    "recolors": [
+      {
+        "src": 926,
+        "dst": 43146
+      },
+      {
+        "src": 947,
+        "dst": 45993
+      },
+      {
+        "src": 11200,
+        "dst": 127
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "animation": 901,
+    "model": {
+      "id": 2267,
+      "scale_y": 384
+    },
+    "recolors": [
+      {
+        "src": 8128,
+        "dst": 43146
+      },
+      {
+        "src": 7104,
+        "dst": 45993
+      },
+      {
+        "src": 5056,
+        "dst": 127
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "animation": 693,
+    "model": {
+      "id": 3116
+    },
+    "recolors": [
+      {
+        "src": 7104,
+        "dst": 127
+      },
+      {
+        "src": 6080,
+        "dst": 43117
+      },
+      {
+        "src": 960,
+        "dst": 43233
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "animation": 913,
+    "model": {
+      "id": 411
+    }
+  },
+  {
+    "id": 200,
+    "model": {
+      "id": 3138
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 5652
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "model": {
+      "id": 3138
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 33
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "model": {
+      "id": 3138
+    }
+  },
+  {
+    "id": 203,
+    "model": {
+      "id": 3138
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 43282
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "model": {
+      "id": 3138
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 21662
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "model": {
+      "id": 3138
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 36133
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "animation": 368,
+    "model": {
+      "id": 3144
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 5652
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "animation": 368,
+    "model": {
+      "id": 3144
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 33
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "animation": 368,
+    "model": {
+      "id": 3144
+    }
+  },
+  {
+    "id": 209,
+    "animation": 368,
+    "model": {
+      "id": 3144
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 43282
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "animation": 368,
+    "model": {
+      "id": 3144
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 21662
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "animation": 368,
+    "model": {
+      "id": 3144
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 36133
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "model": {
+      "id": 3139
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 5652
+      },
+      {
+        "src": 57,
+        "dst": 5652
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "model": {
+      "id": 3139
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 33
+      },
+      {
+        "src": 57,
+        "dst": 33
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "model": {
+      "id": 3139
+    },
+    "recolors": [
+      {
+        "src": 57,
+        "dst": 61
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "model": {
+      "id": 3139
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 8
+      },
+      {
+        "src": 57,
+        "dst": 8
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "model": {
+      "id": 3139
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 43282
+      },
+      {
+        "src": 57,
+        "dst": 43282
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "model": {
+      "id": 3139
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 21662
+      },
+      {
+        "src": 57,
+        "dst": 21662
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "model": {
+      "id": 3139
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 36133
+      },
+      {
+        "src": 57,
+        "dst": 36133
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "animation": 369,
+    "model": {
+      "id": 3145
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 5652
+      },
+      {
+        "src": 57,
+        "dst": 5652
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "animation": 369,
+    "model": {
+      "id": 3145
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 33
+      },
+      {
+        "src": 57,
+        "dst": 33
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "animation": 369,
+    "model": {
+      "id": 3145
+    },
+    "recolors": [
+      {
+        "src": 57,
+        "dst": 61
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "animation": 369,
+    "model": {
+      "id": 3145
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 8
+      },
+      {
+        "src": 57,
+        "dst": 8
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "animation": 369,
+    "model": {
+      "id": 3145
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 43282
+      },
+      {
+        "src": 57,
+        "dst": 43282
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "animation": 369,
+    "model": {
+      "id": 3145
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 21662
+      },
+      {
+        "src": 57,
+        "dst": 21662
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "animation": 369,
+    "model": {
+      "id": 3145
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 36133
+      },
+      {
+        "src": 57,
+        "dst": 36133
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "model": {
+      "id": 3131
+    },
+    "recolors": [
+      {
+        "src": 82,
+        "dst": 5652
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "model": {
+      "id": 3131
+    },
+    "recolors": [
+      {
+        "src": 82,
+        "dst": 33
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "model": {
+      "id": 3131
+    },
+    "recolors": [
+      {
+        "src": 82,
+        "dst": 61
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "model": {
+      "id": 3131
+    },
+    "recolors": [
+      {
+        "src": 82,
+        "dst": 43282
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "model": {
+      "id": 3131
+    },
+    "recolors": [
+      {
+        "src": 82,
+        "dst": 21662
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "model": {
+      "id": 3131
+    },
+    "recolors": [
+      {
+        "src": 82,
+        "dst": 36133
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "animation": 370,
+    "model": {
+      "id": 3146
+    },
+    "recolors": [
+      {
+        "src": 82,
+        "dst": 5652
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "animation": 370,
+    "model": {
+      "id": 3146
+    },
+    "recolors": [
+      {
+        "src": 82,
+        "dst": 33
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "animation": 370,
+    "model": {
+      "id": 3146
+    },
+    "recolors": [
+      {
+        "src": 82,
+        "dst": 61
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "animation": 370,
+    "model": {
+      "id": 3146
+    },
+    "recolors": [
+      {
+        "src": 82,
+        "dst": 43282
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "animation": 370,
+    "model": {
+      "id": 3146
+    },
+    "recolors": [
+      {
+        "src": 82,
+        "dst": 21662
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "animation": 370,
+    "model": {
+      "id": 3146
+    },
+    "recolors": [
+      {
+        "src": 82,
+        "dst": 36133
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "animation": 930,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3370
+    }
+  },
+  {
+    "id": 239,
+    "animation": 449,
+    "model": {
+      "id": 2218
+    }
+  },
+  {
+    "id": 240,
+    "animation": 1023,
+    "model": {
+      "id": 3446
+    }
+  },
+  {
+    "id": 241,
+    "animation": 1024,
+    "model": {
+      "id": 3440
+    }
+  },
+  {
+    "id": 242,
+    "model": {
+      "id": 3136,
+      "scale_x": 192,
+      "scale_y": 192,
+      "scale_z": 192
+    },
+    "recolors": [
+      {
+        "src": 5012,
+        "dst": 7582
+      },
+      {
+        "src": 926,
+        "dst": 127
+      },
+      {
+        "src": 61,
+        "dst": 10326
+      },
+      {
+        "src": 57,
+        "dst": 13790
+      },
+      {
+        "src": 74,
+        "dst": 9329
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "animation": 366,
+    "model": {
+      "id": 3142,
+      "scale_x": 192,
+      "scale_y": 192,
+      "scale_z": 192
+    },
+    "recolors": [
+      {
+        "src": 5012,
+        "dst": 7582
+      },
+      {
+        "src": 926,
+        "dst": 127
+      },
+      {
+        "src": 61,
+        "dst": 10326
+      },
+      {
+        "src": 57,
+        "dst": 13790
+      },
+      {
+        "src": 74,
+        "dst": 9329
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "animation": 1053,
+    "model": {
+      "id": 166
+    }
+  },
+  {
+    "id": 245,
+    "animation": 1054,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3070
+    }
+  },
+  {
+    "id": 246,
+    "animation": 1055,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 2318
+    },
+    "recolors": [
+      {
+        "src": 11218,
+        "dst": 964
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "animation": 1055,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 2318
+    },
+    "recolors": [
+      {
+        "src": 11218,
+        "dst": 42572
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "animation": 1059,
+    "light": {
+      "ambient": 50,
+      "contrast": 50
+    },
+    "model": {
+      "id": 3480
+    }
+  },
+  {
+    "id": 249,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3473
+    }
+  },
+  {
+    "id": 250,
+    "animation": 366,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3473
+    }
+  },
+  {
+    "id": 251,
+    "animation": 1061,
+    "light": {
+      "ambient": 50,
+      "contrast": 50
+    },
+    "model": {
+      "id": 3479
+    }
+  },
+  {
+    "id": 252,
+    "animation": 1063,
+    "light": {
+      "ambient": 50,
+      "contrast": 50
+    },
+    "model": {
+      "id": 3478
+    }
+  },
+  {
+    "id": 253,
+    "animation": 1065,
+    "light": {
+      "ambient": 50,
+      "contrast": 50
+    },
+    "model": {
+      "id": 3477
+    }
+  },
+  {
+    "id": 254,
+    "animation": 1066,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3070
+    }
+  },
+  {
+    "id": 255,
+    "animation": 1102,
+    "model": {
+      "id": 3569
+    }
+  },
+  {
+    "id": 256,
+    "animation": 1075,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3473
+    }
+  },
+  {
+    "id": 257,
+    "animation": 1069,
+    "model": {
+      "id": 3472
+    }
+  },
+  {
+    "id": 258,
+    "animation": 1070,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3474
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 36133
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "animation": 1102,
+    "model": {
+      "id": 3569
+    },
+    "recolors": [
+      {
+        "src": 11200,
+        "dst": 127
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "animation": 1096,
+    "model": {
+      "id": 3593
+    }
+  },
+  {
+    "id": 261,
+    "animation": 1097,
+    "model": {
+      "id": 3600
+    }
+  },
+  {
+    "id": 262,
+    "animation": 1098,
+    "model": {
+      "id": 3591
+    }
+  },
+  {
+    "id": 263,
+    "animation": 1099,
+    "light": {
+      "ambient": 30,
+      "contrast": 30
+    },
+    "model": {
+      "id": 3567
+    }
+  },
+  {
+    "id": 264,
+    "animation": 1101,
+    "light": {
+      "ambient": 30,
+      "contrast": 30
+    },
+    "model": {
+      "id": 3568
+    }
+  },
+  {
+    "id": 265,
+    "animation": 1090,
+    "model": {
+      "id": 3559
+    },
+    "recolors": [
+      {
+        "src": 7471,
+        "dst": 43131
+      },
+      {
+        "src": 7236,
+        "dst": 43131
+      },
+      {
+        "src": 920,
+        "dst": 43131
+      },
+      {
+        "src": 12224,
+        "dst": 43131
+      },
+      {
+        "src": 10355,
+        "dst": 43131
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "animation": 693,
+    "model": {
+      "id": 3116
+    },
+    "recolors": [
+      {
+        "src": 7104,
+        "dst": 17344
+      },
+      {
+        "src": 6080,
+        "dst": 22441
+      },
+      {
+        "src": 960,
+        "dst": 22464
+      }
+    ]
+  },
+  {
+    "id": 267,
+    "animation": 654,
+    "model": {
+      "id": 3076,
+      "scale_x": 168,
+      "scale_y": 168,
+      "scale_z": 168
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 17344
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "animation": 663,
+    "model": {
+      "id": 3087
+    },
+    "recolors": [
+      {
+        "src": 960,
+        "dst": 22420
+      },
+      {
+        "src": 6080,
+        "dst": 22464
+      },
+      {
+        "src": 7104,
+        "dst": 17344
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "animation": 660,
+    "light": {
+      "ambient": 50,
+      "contrast": 50
+    },
+    "model": {
+      "id": 3082
+    },
+    "recolors": [
+      {
+        "src": 926,
+        "dst": 22420
+      },
+      {
+        "src": 947,
+        "dst": 22441
+      },
+      {
+        "src": 11200,
+        "dst": 17344
+      }
+    ]
+  },
+  {
+    "id": 270,
+    "animation": 1109,
+    "model": {
+      "id": 3644
+    }
+  },
+  {
+    "id": 271,
+    "animation": 457,
+    "model": {
+      "id": 2321
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 7646
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "animation": 1076,
+    "model": {
+      "id": 3668
+    }
+  },
+  {
+    "id": 273,
+    "animation": 370,
+    "model": {
+      "id": 3146
+    }
+  },
+  {
+    "id": 274,
+    "animation": 924,
+    "light": {
+      "ambient": 50,
+      "contrast": 50
+    },
+    "model": {
+      "id": 3778
+    }
+  },
+  {
+    "id": 275,
+    "animation": 1143,
+    "model": {
+      "id": 3776
+    }
+  },
+  {
+    "id": 276,
+    "model": {
+      "id": 3775
+    }
+  },
+  {
+    "id": 277,
+    "animation": 1160,
+    "light": {
+      "ambient": 50,
+      "contrast": 50
+    },
+    "model": {
+      "id": 3809
+    }
+  },
+  {
+    "id": 278,
+    "animation": 1173,
+    "model": {
+      "id": 3853
+    }
+  },
+  {
+    "id": 279,
+    "animation": 1171,
+    "model": {
+      "id": 3855
+    }
+  },
+  {
+    "id": 280,
+    "animation": 669,
+    "light": {
+      "ambient": 75,
+      "contrast": 75
+    },
+    "model": {
+      "id": 3093
+    },
+    "recolors": [
+      {
+        "src": 55198,
+        "dst": 30949
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "animation": 670,
+    "light": {
+      "ambient": 75,
+      "contrast": 75
+    },
+    "model": {
+      "id": 3094
+    },
+    "recolors": [
+      {
+        "src": 55198,
+        "dst": 30949
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "animation": 1204,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 4005
+    }
+  },
+  {
+    "id": 283,
+    "animation": 1204,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 4004
+    }
+  },
+  {
+    "id": 284,
+    "animation": 1204,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 4003
+    }
+  },
+  {
+    "id": 285,
+    "animation": 1204,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 4006
+    }
+  },
+  {
+    "id": 286,
+    "animation": 1229,
+    "model": {
+      "id": 3962
+    }
+  },
+  {
+    "id": 287,
+    "animation": 1230,
+    "model": {
+      "id": 3960
+    }
+  },
+  {
+    "id": 288,
+    "model": {
+      "id": 4050,
+      "scale_x": 64,
+      "scale_y": 64,
+      "scale_z": 64
+    }
+  },
+  {
+    "id": 289,
+    "model": {
+      "id": 4050,
+      "scale_x": 64,
+      "scale_y": 64,
+      "scale_z": 64
+    },
+    "recolors": [
+      {
+        "src": 22404,
+        "dst": 920
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "animation": 371,
+    "model": {
+      "id": 4075
+    }
+  },
+  {
+    "id": 291,
+    "animation": 1257,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3070
+    }
+  },
+  {
+    "id": 292,
+    "animation": 1305,
+    "model": {
+      "id": 4139
+    }
+  },
+  {
+    "id": 293,
+    "animation": 1285,
+    "model": {
+      "id": 4142
+    }
+  },
+  {
+    "id": 294,
+    "model": {
+      "id": 4588
+    }
+  },
+  {
+    "id": 295,
+    "model": {
+      "id": 4588
+    },
+    "recolors": [
+      {
+        "src": 10283,
+        "dst": 74
+      }
+    ]
+  },
+  {
+    "id": 296,
+    "model": {
+      "id": 4588
+    },
+    "recolors": [
+      {
+        "src": 10283,
+        "dst": 43065
+      }
+    ]
+  },
+  {
+    "id": 297,
+    "model": {
+      "id": 4588
+    },
+    "recolors": [
+      {
+        "src": 10283,
+        "dst": 301
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "model": {
+      "id": 4588
+    },
+    "recolors": [
+      {
+        "src": 10283,
+        "dst": 5557
+      }
+    ]
+  },
+  {
+    "id": 299,
+    "model": {
+      "id": 4588
+    },
+    "recolors": [
+      {
+        "src": 10283,
+        "dst": 21807
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "model": {
+      "id": 4588
+    },
+    "recolors": [
+      {
+        "src": 10283,
+        "dst": 10549
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "animation": 667,
+    "light": {
+      "ambient": 100,
+      "contrast": 100
+    },
+    "model": {
+      "id": 3091
+    },
+    "recolors": [
+      {
+        "src": 48957,
+        "dst": 699
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "animation": 457,
+    "model": {
+      "id": 2321
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 7646
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "animation": 1432,
+    "model": {
+      "id": 4848
+    },
+    "recolors": [
+      {
+        "src": 53,
+        "dst": 3239
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "model": {
+      "id": 3140
+    },
+    "recolors": [
+      {
+        "src": 53,
+        "dst": 3239
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "animation": 693,
+    "model": {
+      "id": 3116
+    },
+    "recolors": [
+      {
+        "src": 7104,
+        "dst": 22416
+      },
+      {
+        "src": 6080,
+        "dst": 21539
+      },
+      {
+        "src": 960,
+        "dst": 21652
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "animation": 1063,
+    "light": {
+      "ambient": 50,
+      "contrast": 50
+    },
+    "model": {
+      "id": 3478
+    },
+    "recolors": [
+      {
+        "src": 65472,
+        "dst": 54177
+      }
+    ]
+  },
+  {
+    "id": 307,
+    "animation": 1448,
+    "model": {
+      "id": 4922
+    }
+  },
+  {
+    "id": 308,
+    "animation": 1447,
+    "model": {
+      "id": 3091
+    }
+  },
+  {
+    "id": 309,
+    "animation": 1449,
+    "model": {
+      "id": 4922
+    }
+  },
+  {
+    "id": 310,
+    "animation": 1261,
+    "light": {
+      "ambient": 30,
+      "contrast": 30
+    },
+    "model": {
+      "id": 4086
+    }
+  },
+  {
+    "id": 311,
+    "animation": 1503,
+    "model": {
+      "id": 4975
+    }
+  },
+  {
+    "id": 312,
+    "model": {
+      "id": 3137
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 5652
+      }
+    ]
+  },
+  {
+    "id": 313,
+    "model": {
+      "id": 3137
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 33
+      }
+    ]
+  },
+  {
+    "id": 314,
+    "model": {
+      "id": 3137
+    }
+  },
+  {
+    "id": 315,
+    "model": {
+      "id": 3137
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 43297
+      }
+    ]
+  },
+  {
+    "id": 316,
+    "model": {
+      "id": 3137
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 21662
+      }
+    ]
+  },
+  {
+    "id": 317,
+    "model": {
+      "id": 3137
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 36133
+      }
+    ]
+  },
+  {
+    "id": 318,
+    "model": {
+      "id": 3134
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 5652
+      }
+    ]
+  },
+  {
+    "id": 319,
+    "model": {
+      "id": 3134
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 33
+      }
+    ]
+  },
+  {
+    "id": 320,
+    "model": {
+      "id": 3134
+    }
+  },
+  {
+    "id": 321,
+    "model": {
+      "id": 3134
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 43297
+      }
+    ]
+  },
+  {
+    "id": 322,
+    "model": {
+      "id": 3134
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 21662
+      }
+    ]
+  },
+  {
+    "id": 323,
+    "model": {
+      "id": 3134
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 36133
+      }
+    ]
+  },
+  {
+    "id": 324,
+    "model": {
+      "id": 3073
+    }
+  },
+  {
+    "id": 325,
+    "animation": 366,
+    "model": {
+      "id": 5115
+    }
+  },
+  {
+    "id": 326,
+    "model": {
+      "id": 5115
+    }
+  },
+  {
+    "id": 327,
+    "animation": 1575,
+    "light": {
+      "ambient": 50
+    },
+    "model": {
+      "id": 5092
+    }
+  },
+  {
+    "id": 328,
+    "animation": 1577,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 5091
+    }
+  },
+  {
+    "id": 329,
+    "animation": 660,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3082
+    },
+    "recolors": [
+      {
+        "src": 947,
+        "dst": 21706
+      },
+      {
+        "src": 926,
+        "dst": 23746
+      },
+      {
+        "src": 11200,
+        "dst": 23890
+      }
+    ]
+  },
+  {
+    "id": 330,
+    "animation": 1577,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 5091
+    },
+    "recolors": [
+      {
+        "src": 21706,
+        "dst": 26826
+      }
+    ]
+  },
+  {
+    "id": 331,
+    "animation": 660,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3082
+    },
+    "recolors": [
+      {
+        "src": 947,
+        "dst": 21689
+      },
+      {
+        "src": 926,
+        "dst": 26929
+      },
+      {
+        "src": 11200,
+        "dst": 26818
+      }
+    ]
+  },
+  {
+    "id": 332,
+    "animation": 1055,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 2318
+    },
+    "recolors": [
+      {
+        "src": 11218,
+        "dst": 54162
+      }
+    ]
+  },
+  {
+    "id": 333,
+    "animation": 1543,
+    "model": {
+      "id": 5075
+    }
+  },
+  {
+    "id": 334,
+    "animation": 1569,
+    "model": {
+      "id": 7412,
+      "scale_x": 64,
+      "scale_y": 64,
+      "scale_z": 64
+    }
+  },
+  {
+    "id": 335,
+    "animation": 1570,
+    "model": {
+      "id": 7412,
+      "scale_x": 64,
+      "scale_y": 64,
+      "scale_z": 64
+    }
+  },
+  {
+    "id": 336,
+    "animation": 1571,
+    "model": {
+      "id": 7412,
+      "scale_x": 64,
+      "scale_y": 64,
+      "scale_z": 64
+    }
+  },
+  {
+    "id": 337,
+    "animation": 1573,
+    "model": {
+      "id": 7411
+    }
+  },
+  {
+    "id": 338,
+    "animation": 371,
+    "model": {
+      "id": 5147
+    }
+  },
+  {
+    "id": 339,
+    "animation": 653,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3080
+    }
+  },
+  {
+    "id": 340,
+    "animation": 1668,
+    "light": {
+      "ambient": 50,
+      "contrast": 50
+    },
+    "model": {
+      "id": 5415
+    }
+  },
+  {
+    "id": 341,
+    "animation": 1669,
+    "light": {
+      "ambient": 50,
+      "contrast": 50
+    },
+    "model": {
+      "id": 5416
+    }
+  },
+  {
+    "id": 342,
+    "animation": 1813,
+    "light": {
+      "ambient": 100,
+      "contrast": 100
+    },
+    "model": {
+      "id": 5802
+    }
+  },
+  {
+    "id": 343,
+    "animation": 1817,
+    "light": {
+      "ambient": 100,
+      "contrast": 100
+    },
+    "model": {
+      "id": 5801
+    }
+  },
+  {
+    "id": 344,
+    "animation": 1821,
+    "model": {
+      "id": 5800
+    }
+  },
+  {
+    "id": 345,
+    "animation": 1822,
+    "model": {
+      "id": 5799
+    }
+  },
+  {
+    "id": 346,
+    "animation": 664,
+    "model": {
+      "id": 3088
+    }
+  },
+  {
+    "id": 347,
+    "animation": 1873,
+    "light": {
+      "ambient": 100,
+      "contrast": 100
+    },
+    "model": {
+      "id": 6035
+    }
+  },
+  {
+    "id": 348,
+    "animation": 1874,
+    "light": {
+      "ambient": 40,
+      "contrast": 40
+    },
+    "model": {
+      "id": 3070
+    }
+  },
+  {
+    "id": 349,
+    "animation": 1160,
+    "light": {
+      "ambient": 50,
+      "contrast": 50
+    },
+    "model": {
+      "id": 3809
+    }
+  },
+  {
+    "id": 350,
+    "animation": 1916,
+    "model": {
+      "id": 6360
+    }
+  },
+  {
+    "id": 351,
+    "animation": 1918,
+    "model": {
+      "id": 6358
+    }
+  },
+  {
+    "id": 352,
+    "animation": 1919,
+    "model": {
+      "id": 6358
+    }
+  },
+  {
+    "id": 353,
+    "animation": 1924,
+    "model": {
+      "id": 6306
+    }
+  },
+  {
+    "id": 354,
+    "animation": 1951,
+    "model": {
+      "id": 6288
+    }
+  },
+  {
+    "id": 355,
+    "animation": 1936,
+    "model": {
+      "id": 6285
+    }
+  },
+  {
+    "id": 356,
+    "animation": 1937,
+    "model": {
+      "id": 6286
+    }
+  },
+  {
+    "id": 357,
+    "animation": 1956,
+    "model": {
+      "id": 6373
+    }
+  },
+  {
+    "id": 358,
+    "animation": 1924,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 6306
+    },
+    "recolors": [
+      {
+        "src": 33907,
+        "dst": 43125
+      }
+    ]
+  },
+  {
+    "id": 359,
+    "animation": 693,
+    "light": {
+      "ambient": 60,
+      "contrast": 60
+    },
+    "model": {
+      "id": 3116
+    },
+    "recolors": [
+      {
+        "src": 7104,
+        "dst": 127
+      },
+      {
+        "src": 6080,
+        "dst": 43125
+      },
+      {
+        "src": 960,
+        "dst": 43119
+      }
+    ]
+  },
+  {
+    "id": 360,
+    "animation": 1958,
+    "model": {
+      "id": 6388
+    }
+  },
+  {
+    "id": 361,
+    "animation": 1959,
+    "model": {
+      "id": 6387
+    }
+  },
+  {
+    "id": 362,
+    "animation": 1960,
+    "model": {
+      "id": 6384
+    }
+  },
+  {
+    "id": 363,
+    "animation": 1961,
+    "model": {
+      "id": 6383
+    }
+  },
+  {
+    "id": 364,
+    "animation": 1961,
+    "model": {
+      "id": 6383,
+      "scale_x": 256,
+      "scale_y": 256,
+      "scale_z": 256
+    }
+  },
+  {
+    "id": 365,
+    "animation": 1961,
+    "model": {
+      "id": 6383,
+      "scale_x": 512,
+      "scale_y": 512,
+      "scale_z": 512
+    }
+  },
+  {
+    "id": 366,
+    "animation": 1962,
+    "model": {
+      "id": 6386
+    }
+  },
+  {
+    "id": 367,
+    "animation": 1963,
+    "model": {
+      "id": 6385
+    }
+  },
+  {
+    "id": 368,
+    "animation": 1964,
+    "model": {
+      "id": 6382
+    }
+  },
+  {
+    "id": 369,
+    "animation": 1965,
+    "model": {
+      "id": 6381
+    }
+  },
+  {
+    "id": 370,
+    "animation": 1965,
+    "model": {
+      "id": 6381,
+      "scale_x": 256,
+      "scale_y": 256,
+      "scale_z": 256
+    }
+  },
+  {
+    "id": 371,
+    "animation": 1965,
+    "model": {
+      "id": 6381,
+      "scale_x": 512,
+      "scale_y": 512,
+      "scale_z": 512
+    }
+  },
+  {
+    "id": 372,
+    "animation": 1968,
+    "model": {
+      "id": 6380
+    }
+  },
+  {
+    "id": 373,
+    "animation": 1970,
+    "model": {
+      "id": 6378
+    }
+  },
+  {
+    "id": 374,
+    "animation": 1969,
+    "model": {
+      "id": 6379
+    }
+  },
+  {
+    "id": 375,
+    "animation": 1971,
+    "model": {
+      "id": 6377
+    }
+  },
+  {
+    "id": 376,
+    "animation": 1966,
+    "model": {
+      "id": 6376
+    }
+  },
+  {
+    "id": 377,
+    "animation": 1967,
+    "model": {
+      "id": 6375
+    }
+  },
+  {
+    "id": 378,
+    "animation": 1974,
+    "model": {
+      "id": 6394
+    }
+  },
+  {
+    "id": 379,
+    "animation": 1973,
+    "model": {
+      "id": 6393
+    }
+  },
+  {
+    "id": 380,
+    "animation": 1975,
+    "model": {
+      "id": 6395
+    }
+  },
+  {
+    "id": 381,
+    "animation": 1973,
+    "model": {
+      "id": 6392
+    }
+  },
+  {
+    "id": 382,
+    "animation": 1976,
+    "model": {
+      "id": 6390
+    }
+  },
+  {
+    "id": 383,
+    "animation": 1977,
+    "model": {
+      "id": 6389
+    }
+  },
+  {
+    "id": 384,
+    "animation": 1980,
+    "light": {
+      "ambient": 100,
+      "contrast": 100
+    },
+    "model": {
+      "id": 6403
+    }
+  },
+  {
+    "id": 385,
+    "animation": 1982,
+    "light": {
+      "ambient": 100,
+      "contrast": 100
+    },
+    "model": {
+      "id": 6401
+    }
+  },
+  {
+    "id": 386,
+    "animation": 1981,
+    "light": {
+      "ambient": 100,
+      "contrast": 100
+    },
+    "model": {
+      "id": 6402
+    }
+  },
+  {
+    "id": 387,
+    "animation": 1983,
+    "light": {
+      "ambient": 100,
+      "contrast": 100
+    },
+    "model": {
+      "id": 6400
+    }
+  },
+  {
+    "id": 388,
+    "animation": 1984,
+    "light": {
+      "ambient": 100,
+      "contrast": 100
+    },
+    "model": {
+      "id": 6399
+    }
+  },
+  {
+    "id": 389,
+    "animation": 1985,
+    "light": {
+      "ambient": 100,
+      "contrast": 100
+    },
+    "model": {
+      "id": 6397
+    }
+  },
+  {
+    "id": 390,
+    "animation": 1986,
+    "light": {
+      "ambient": 100,
+      "contrast": 100
+    },
+    "model": {
+      "id": 6398
+    }
+  },
+  {
+    "id": 391,
+    "animation": 1987,
+    "light": {
+      "ambient": 100,
+      "contrast": 100
+    },
+    "model": {
+      "id": 6396
+    }
+  },
+  {
+    "id": 392,
+    "animation": 1988,
+    "model": {
+      "id": 6404
+    }
+  },
+  {
+    "id": 393,
+    "animation": 1990,
+    "model": {
+      "id": 6434
+    }
+  },
+  {
+    "id": 394,
+    "animation": 1990,
+    "model": {
+      "id": 6434
+    },
+    "recolors": [
+      {
+        "src": 926,
+        "dst": 22414
+      },
+      {
+        "src": 6080,
+        "dst": 22435
+      },
+      {
+        "src": 11200,
+        "dst": 22447
+      }
+    ]
+  },
+  {
+    "id": 395,
+    "animation": 1990,
+    "model": {
+      "id": 6434
+    },
+    "recolors": [
+      {
+        "src": 926,
+        "dst": 127
+      },
+      {
+        "src": 6080,
+        "dst": 41191
+      },
+      {
+        "src": 11200,
+        "dst": 41558
+      }
+    ]
+  },
+  {
+    "id": 396,
+    "animation": 1990,
+    "model": {
+      "id": 6434
+    },
+    "recolors": [
+      {
+        "src": 926,
+        "dst": 43955
+      },
+      {
+        "src": 6080,
+        "dst": 43592
+      },
+      {
+        "src": 11200,
+        "dst": 43228
+      }
+    ]
+  },
+  {
+    "id": 397,
+    "animation": 2058,
+    "model": {
+      "id": 6542
+    }
+  },
+  {
+    "id": 398,
+    "animation": 2083,
+    "model": {
+      "id": 6636
+    }
+  },
+  {
+    "id": 399,
+    "animation": 2084,
+    "model": {
+      "id": 6638
+    }
+  },
+  {
+    "id": 400,
+    "animation": 2086,
+    "light": {
+      "ambient": 50,
+      "contrast": 50
+    },
+    "model": {
+      "id": 6634
+    }
+  },
+  {
+    "id": 401,
+    "animation": 2087,
+    "light": {
+      "ambient": 50,
+      "contrast": 50
+    },
+    "model": {
+      "id": 6635
+    }
+  },
+  {
+    "id": 402,
+    "animation": 654,
+    "model": {
+      "id": 3076
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 11160
+      }
+    ]
+  },
+  {
+    "id": 403,
+    "animation": 366,
+    "model": {
+      "id": 6820,
+      "scale_x": 160,
+      "scale_y": 160,
+      "scale_z": 160
+    }
+  },
+  {
+    "id": 404,
+    "model": {
+      "id": 6820,
+      "scale_x": 160,
+      "scale_y": 160,
+      "scale_z": 160
+    }
+  },
+  {
+    "id": 405,
+    "animation": 457,
+    "model": {
+      "id": 2321
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 10258
+      }
+    ]
+  },
+  {
+    "id": 406,
+    "animation": 2132,
+    "model": {
+      "id": 6879
+    },
+    "recolors": [
+      {
+        "src": 61,
+        "dst": 10258
+      }
+    ]
+  },
+  {
+    "id": 407,
+    "model": {
+      "id": 7463
+    }
+  },
+  {
+    "id": 408,
+    "model": {
+      "id": 7547
+    }
+  }
+]
