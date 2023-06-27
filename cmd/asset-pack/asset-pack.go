@@ -12,14 +12,16 @@ import (
 	"net/http"
 	"os"
 	"path/filepath"
+	"strings"
 
 	"azul3d.org/engine/binpack"
 	"golang.org/x/exp/slices"
 )
 
-var packMargin = 4
+var pack_margin = 4
 var visited = make(map[string]bool)
 var recursive = false
+var output_path string
 
 type input struct {
 	X        int `json:"x"`
@@ -30,11 +32,15 @@ type input struct {
 	img      image.Image
 }
 
-func (i *input) size() int {
-	if i.W > i.H {
-		return i.W
+func max(a, b int) int {
+	if a > b {
+		return a
 	}
-	return i.H
+	return b
+}
+
+func (i *input) size() int {
+	return max(i.W, i.H)
 }
 
 type inputs []*input
@@ -45,30 +51,32 @@ func (i inputs) Len() int {
 
 func (i inputs) Size(n int) (w, h int) {
 	v := i[n]
-	w = v.W + (packMargin * 2)
-	h = v.H + (packMargin * 2)
+	w = v.W + (pack_margin * 2)
+	h = v.H + (pack_margin * 2)
 	return
 }
 
 func (i inputs) Place(n, x, y int) {
 	v := i[n]
-	v.X = x + packMargin
-	v.Y = y + packMargin
+	v.X = x + pack_margin
+	v.Y = y + pack_margin
 }
 
-func pathNoExt(path string) string {
-	path = filepath.Base(path)
+func path_no_ext(path string) string {
 	ext := filepath.Ext(path)
 	return path[:len(path)-len(ext)]
 }
 
-func tryFile(filepath string) (result *input, err error) {
-	if visited[filepath] {
+func try_file(file_path string) (result *input, err error) {
+	if file_path == output_path {
 		return
 	}
-	visited[filepath] = true
+	if visited[file_path] {
+		return
+	}
+	visited[file_path] = true
 	var data []byte
-	if data, err = os.ReadFile(filepath); err != nil {
+	if data, err = os.ReadFile(file_path); err != nil {
 		return
 	}
 	contentType := http.DetectContentType(data)
@@ -80,7 +88,7 @@ func tryFile(filepath string) (result *input, err error) {
 		}
 		size := img.Bounds().Max
 		result = &input{
-			filepath: filepath,
+			filepath: file_path,
 			img:      img,
 			W:        size.X,
 			H:        size.Y,
@@ -89,22 +97,22 @@ func tryFile(filepath string) (result *input, err error) {
 	return
 }
 
-func tryDir(dirpath string) (results []*input, err error) {
-	if visited[dirpath] {
+func try_dir(dir_path string) (results []*input, err error) {
+	if visited[dir_path] {
 		return
 	}
-	visited[dirpath] = true
-	err = filepath.WalkDir(dirpath, func(path string, d os.DirEntry, err error) error {
+	visited[dir_path] = true
+	err = filepath.WalkDir(dir_path, func(path string, d os.DirEntry, err error) error {
 		// report directory read error
 		if err != nil {
 			return err
 		}
-		if path == dirpath {
+		if path == dir_path {
 			return nil
 		}
 		if recursive && d.IsDir() {
 			var tmp []*input
-			if tmp, err = tryDir(path); err != nil {
+			if tmp, err = try_dir(path); err != nil {
 				return err
 			} else if tmp != nil {
 				results = append(results, tmp...)
@@ -112,7 +120,7 @@ func tryDir(dirpath string) (results []*input, err error) {
 			return nil
 		}
 		var input *input
-		if input, err = tryFile(path); err != nil {
+		if input, err = try_file(path); err != nil {
 			return err
 		} else if input != nil {
 			results = append(results, input)
@@ -123,9 +131,8 @@ func tryDir(dirpath string) (results []*input, err error) {
 }
 
 func main() {
-	var outputPath string
-	flag.StringVar(&outputPath, "o", "out.png", "the filepath of the output image")
-	flag.IntVar(&packMargin, "margin", 4, "sets the space between images")
+	flag.StringVar(&output_path, "o", "out.png", "the filepath of the output image")
+	flag.IntVar(&pack_margin, "margin", 4, "sets the space between images")
 	flag.BoolVar(&recursive, "recursive", false, "whether to traverse the input filepaths recursively")
 	flag.Parse()
 
@@ -140,14 +147,14 @@ func main() {
 		}
 		if info.IsDir() {
 			var results []*input
-			if results, err = tryDir(path); err != nil {
+			if results, err = try_dir(path); err != nil {
 				errors = append(errors, err)
 				continue
 			}
 			inputs = append(inputs, results...)
 		} else {
 			var result *input
-			if result, err = tryFile(path); err != nil {
+			if result, err = try_file(path); err != nil {
 				errors = append(errors, err)
 				continue
 			}
@@ -174,16 +181,18 @@ func main() {
 		panic("failed to pack")
 	}
 
-	if outputFile, err := os.OpenFile(outputPath, os.O_CREATE|os.O_WRONLY, 0655); err != nil {
+	if output_file, err := os.OpenFile(output_path, os.O_CREATE|os.O_WRONLY, 0655); err != nil {
 		errors = append(errors, err)
 	} else {
-		defer outputFile.Close()
+		defer output_file.Close()
 
 		output := image.NewRGBA(image.Rect(0, 0, w, h))
 
 		for _, input := range inputs {
+			input.filepath = path_no_ext(input.filepath)
+			input.filepath = strings.ReplaceAll(input.filepath, "\\", ",")
+			input.filepath = strings.ReplaceAll(input.filepath, "/", ",")
 			fmt.Println(input.filepath)
-			input.filepath = pathNoExt(input.filepath)
 			for y := 0; y < input.H; y++ {
 				dstY := y + input.Y
 				for x := 0; x < input.W; x++ {
@@ -193,8 +202,8 @@ func main() {
 			}
 		}
 
-		if err := png.Encode(outputFile, output); err != nil {
-			panic(fmt.Errorf("%w: %q", err, outputPath))
+		if err := png.Encode(output_file, output); err != nil {
+			panic(fmt.Errorf("%w: %q", err, output_path))
 		}
 	}
 
@@ -206,7 +215,7 @@ func main() {
 	manifest, err := json.Marshal(atlas)
 	if err != nil {
 		errors = append(errors, err)
-	} else if err = os.WriteFile(outputPath+".json", manifest, 0655); err != nil {
+	} else if err = os.WriteFile(output_path+".json", manifest, 0655); err != nil {
 		errors = append(errors, err)
 	}
 
