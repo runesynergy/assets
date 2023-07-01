@@ -1,0 +1,12 @@
+{
+    "scrollbar,grip": {
+        "w": 16,
+        "h": 16,
+        "ninepatch": {
+            "top": 2,
+            "right": 2,
+            "bottom": 2,
+            "left": 2
+        }
+    }
+}
