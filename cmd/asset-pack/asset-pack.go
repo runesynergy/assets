@@ -3,12 +3,14 @@ package main
 import (
 	"bytes"
 	"encoding/json"
+	"errors"
 	"flag"
 	"fmt"
 	"image"
 	_ "image/gif"
 	"image/png"
 	_ "image/png"
+	"io/fs"
 	"net/http"
 	"os"
 	"path/filepath"
@@ -22,14 +24,25 @@ var pack_margin = 4
 var visited = make(map[string]bool)
 var recursive = false
 var output_path string
+var atlas = make(map[string]*input)
+var joins = make(map[string]map[string]*input)
+
+type ninepatch struct {
+	Top    int  `json:"top"`
+	Left   int  `json:"left"`
+	Right  int  `json:"right"`
+	Bottom int  `json:"bottom"`
+	Border bool `json:"border"`
+}
 
 type input struct {
-	X        int `json:"x"`
-	Y        int `json:"y"`
-	W        int `json:"w"`
-	H        int `json:"h"`
-	filepath string
-	img      image.Image
+	X         int        `json:"x"`
+	Y         int        `json:"y"`
+	W         int        `json:"w"`
+	H         int        `json:"h"`
+	Ninepatch *ninepatch `json:"ninepatch,omitempty"`
+	filepath  string
+	img       image.Image
 }
 
 func max(a, b int) int {
@@ -94,6 +107,20 @@ func try_file(file_path string) (result *input, err error) {
 			H:        size.Y,
 		}
 	}
+
+	if result != nil {
+		if data, err = os.ReadFile(file_path + ".json"); !errors.Is(err, fs.ErrNotExist) {
+			var join map[string]*input
+			if err = json.Unmarshal(data, &join); err != nil {
+				err = fmt.Errorf("%w: unmarshalling image manifest", err)
+				return
+			}
+			joins[file_path] = join
+		} else {
+			err = nil
+		}
+	}
+
 	return
 }
 
@@ -158,17 +185,13 @@ func main() {
 				errors = append(errors, err)
 				continue
 			}
-			inputs = append(inputs, result)
+			if result != nil {
+				inputs = append(inputs, result)
+			}
 		}
 	}
 
 	slices.SortFunc(inputs, func(a, b *input) bool {
-		dirA := filepath.Dir(a.filepath)
-		dirB := filepath.Dir(b.filepath)
-		// sort by directory first
-		if dirA != dirB {
-			return dirA < dirB
-		}
 		return a.size() > b.size()
 	})
 
@@ -208,10 +231,22 @@ func main() {
 	}
 
 	// export json in the form of a mapping to simplify loading into client
-	atlas := make(map[string]*input)
 	for _, input := range inputs {
 		atlas[input.filepath] = input
 	}
+
+	for path, join := range joins {
+		path = path_no_ext(path)
+		path = strings.ReplaceAll(path, "\\", ",")
+		path = strings.ReplaceAll(path, "/", ",")
+		base := atlas[path]
+		for name, value := range join {
+			value.X += base.X
+			value.Y += base.Y
+			atlas[name] = value
+		}
+	}
+
 	manifest, err := json.Marshal(atlas)
 	if err != nil {
 		errors = append(errors, err)
